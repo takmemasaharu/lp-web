@@ -1,0 +1,498 @@
+@charset "UTF-8";
+
+body{
+    background-color: #774B2A;
+    margin: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h1{
+    color: #ffffff;
+}
+
+/* h2{
+    color: #ffffff;
+} */
+
+/* p{
+    color: #ffffff;
+} */
+
+img{
+    
+    max-width: 100%;
+}
+
+.toto-l{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%;
+    margin-bottom: 4rem;
+}
+
+.yutaka{
+    color: black;
+    background-image: url(../photo/Gemini_Generated_Image_fxui6rfxui6rfxui.png);
+    height: 56vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* margin: auto; */
+    max-width: 100%;
+    
+}
+
+.coffee img{
+    border-radius: 124px;
+    height: 170px;
+    width: 170px;
+    margin-left: 17rem;
+    margin-top: -4rem;
+    box-shadow: 3px 3px #000;
+}
+
+.Your{
+    color: #ffffff;
+    margin-top: -1.5rem;
+    margin-left: 3rem;
+    line-height: 4rem;
+    font-size: 30px;
+    letter-spacing: 5px;
+    font-family:"Jacques Francois";
+    text-shadow: 0px 6px 3px #000;
+}
+
+.beans1{
+    height: 120px;
+    width: 120px;
+    margin-left: 340px;
+    margin-top: 40px;
+}
+.beans2{
+    height: 120px;
+    width: 120px;
+    margin-left: 270px;
+    margin-top: -60px;
+    transform:rotate(5deg);
+}
+.beans3{
+    height: 130px;
+    width: 130px;
+    margin-left: -50px;
+    margin-top: 60px;
+    transform:rotate(-120deg);
+}
+.beans4 { 
+    height: 110px;
+    width: 110px;
+    margin-left: 90px;
+    margin-top: 30px;
+    transform:rotate(5deg);
+}
+.beans5{
+    height: 110px;
+    width: 110px;
+    margin-left: 220px;
+    margin-top: -100px;
+    transform:rotate(70deg);
+}
+.beans6{
+    height: 90px;
+    width: 90px;
+    margin-left: 370px;
+    margin-top: -90px;
+    transform:rotate(5deg);
+}
+
+.line{
+    transform:rotate(-20deg);
+
+    
+}
+
+.line p{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(3deg);
+    margin-left: -30px;
+    margin-right: -5.1px;
+    border-left: 60px;
+    margin-top: -170px;
+}
+
+/* .mita{
+    font-size: 25px;
+    padding-left: 80px;
+    margin-bottom: -120px;
+    height: 120px;
+}  */
+.kokoro{
+    /* background-color: #886510; */
+    color: #886510;
+    border-width: 100px;
+    background-color: #886510;
+    transform: rotate(7deg);
+    max-width: 93%;
+    margin-left: -40px;
+    margin-bottom: 100px;
+    padding-right: 15px;
+    padding-left: 20px;
+    line-height: 10px;
+    box-shadow: 5px 5px #1a1717;
+}
+.kokoro h1{
+    color:#ffffff;
+    font-size: 27px;
+    font-weight: 600;
+    padding-left: 200px;
+    margin-top: -100px;
+    padding-bottom: 20px;
+    font-family: 'Noto Sans';
+    line-height: 50px;
+    transform: rotate(-7deg);
+    margin-bottom: 100px;
+    font-size: 32px;
+    /* text-decoration: underline; */
+    /* text-decoration-color: #FFF600; */
+}
+.kokoro h2 { 
+    /* color: #886510; */
+    color:#ffffff;
+    font-size: 27px;
+    font-weight: 600;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-right: 80;
+    padding-right: 40px;
+    height: 120px;
+    transform: rotate(-7deg);
+    font-family: 'Noto Sans';
+    line-height: 50px;
+}
+.onaka{
+    color:#ffffff;
+    font-size: 27px;
+    font-weight: 600;
+    padding-left: 80px;
+    margin-top: -80px;
+    font-family: 'Noto Sans';
+    line-height: 50px;
+}
+
+.image{
+    margin-top: 200px;
+    margin-left: 80px;
+    background-color: #947D3F;
+    
+}
+.image img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    box-shadow: 5px 5px #2f2a2a;
+}
+
+.image2{
+    margin-top: 50px;
+    margin-right: 60px;
+    background-color: #947D3F;
+}
+.image2 img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px #2f2a2a;
+}
+
+.explanation{
+    background-image: url(../photo/Gemini_Generated_Image_1ehor61ehor61eho.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 90px;
+}
+.explanation1 p{
+    color: #ffffff;
+    padding-top: 100px;
+    line-height: 70px;
+    font-family: "Jacques Francois", serif;
+    margin-bottom: 70px;
+    margin-left: 40px;
+    letter-spacing: 5px;
+}
+
+.explanation2{
+    color: #ffffff;
+    line-height: 70px;
+    font-family: "Jacques Francois", serif;
+    margin-bottom: 70px;
+    margin-left: 40px;
+    letter-spacing: 5px;
+}
+
+.explanation3{
+    color: #ffffff;
+    padding-bottom: 100px;
+    line-height: 70px;
+    margin-left: 40px;
+    letter-spacing: 5px;
+    font-family: "Jacques Francois", serif;
+}
+
+.beans7{
+    height: 90px;
+    width: 90px;
+    margin-left: 40px;
+    margin-top: -190px;
+    transform:rotate(50deg);
+}
+.beans8{
+    height: 120px;
+    width: 120px;
+    margin-left: 330px;
+    margin-top: -80px;
+    transform:rotate(10deg);
+}
+
+.beans9{
+    height: 130px;
+    width: 130px;
+    margin-left: -50px;
+    margin-top: 10px;
+    transform:rotate(-120deg);
+}
+.beans10{
+    height: 90px;
+    width: 90px;
+    margin-left: 200px;
+    margin-top: -130px;
+    margin-bottom: 170px;
+    transform:rotate(150deg);
+}
+.line2{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(-15deg);
+    margin-left: -30px;
+    margin-right: -3px;
+    border-left: 60px;
+    margin-top: 100px;
+}
+.line3{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(5deg);
+    margin-left: -20px;
+    /* margin-right: -1px; */
+    border-left: 60px;
+    margin-top: 100px;
+}
+.ten{
+    color: #ffffff;
+    line-height: 0px;
+    margin-left: 133px;
+    letter-spacing: 21px;
+}
+.Sweets{
+    background-color: #E4E4B4;
+    color: #976C01;
+    margin-right: 320px;
+    margin-left: 50px;
+    margin-bottom: 80px;
+    margin-top: -50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 100px;
+    font-weight: lighter;
+    font-family: "Jacques Francois", serif;
+}
+.material{
+    line-height:0px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    letter-spacing: 5px;
+}
+.crepe{
+    margin-top: 100px;
+}
+.beans11{
+    height: 160px;
+    width: 160px;
+    margin-left: -40px;
+    margin-top: -200px;
+    transform:rotate(84deg);
+}
+.beans12{
+    height: 80px;
+    width: 80px;
+    margin-left: 110px;
+    margin-top: -30px;
+    transform:rotate(5deg);
+}
+.beans13{
+    height: 150px;
+    width: 150px;
+    margin-left: 290px;
+    margin-top: -270px;
+    transform:rotate(170deg);
+}
+.beans14{
+    height: 80px;
+    width: 80px;
+    margin-left: 340px;
+    margin-top: 90px;
+    transform:rotate(50deg);
+}
+.line4{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(20deg);
+    margin-left: -20px;
+    margin-right: -3px;
+    border-left: 60px;
+    margin-top: 100px;
+}
+.line5{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(-15deg);
+    margin-left: -30px;
+    margin-right: -3px;
+    border-left: 60px;
+    margin-top: 100px;
+    
+}
+
+.crepe2{
+    color: #ffffff;
+    font-family: "Jacques Francois", serif;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 120px;
+    margin-bottom: 90px;
+    letter-spacing: 3px;
+    font-weight: lighter;
+}
+.crepeimage{
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    /* box-shadow: 2px 2px #2f2a2a; */
+}
+.crepeexplanation{
+    background-color: #332410;
+    color: #ffffff;
+    font-family: "Jacques Francois", serif;
+    line-height: 70px;
+    margin-bottom: 100px;
+    letter-spacing: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.crepeexplanation p{
+    margin-left: 40px;
+}
+
+.beans15{
+    height: 100px;
+    width: 100px;
+    margin-left: -40px;
+    margin-top: 70px;
+    transform:rotate(70deg);
+}
+.beans16{
+    height: 120px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: -270px;
+    transform:rotate(140deg);
+}
+.beans17{
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    margin-top: 20px;
+    transform:rotate(30deg);
+}
+.beans18{
+    height: 140px;
+    width: 140px;
+    margin-left: 300px;
+    margin-top: -270px;
+    transform:rotate(70deg);
+}
+.line6{
+    color: #774B2A;
+    border-color: #8C8F56;
+    border-style: solid;
+    border-width: 0px 0px 5px 0px;
+    transform:rotate(-10deg);
+    margin-left: -20px;
+    margin-right: -3px;
+    border-left: 60px;
+    margin-top: 100px;
+}
+.Basquecheesecake{
+    background-color: #433D16;
+}
+.Basque{
+    margin-top: 300px;
+    margin-bottom: 100px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.card-container {
+    margin-top: 200px;
+    background-color: #43441a;
+    color: #ffffff;
+    width: 100%;
+    max-width: 413px; 
+    padding: 40px 30px;
+    text-align: left;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    font-family:"Jacques Francois";
+}
+.script-text {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.totol h1{
+    font-size:40px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    margin-bottom: 30px;
+}
+.totol h1 span.toto-l2{
+    font-size: 30px;
+}
+section {
+    margin-bottom: 25px;
+    font-size: 0.95rem;
+    letter-spacing: 0.05em;
+}
+hr {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.4);
+    margin: 25px 0;
+}
+.logo{
+    height: 150px;
+    width: 150px;
+    margin-bottom: -30px;
+    margin-left: 130px;
+}
+
+
