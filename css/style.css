@@ -453,7 +453,7 @@ img{
     margin-top: 200px;
     background-color: #43441a;
     color: #ffffff;
-    width: 100%;
+    width: auto;
     max-width: 413px; 
     padding: 40px 30px;
     text-align: left;
